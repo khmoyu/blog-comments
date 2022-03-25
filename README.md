@@ -1,2 +1,1 @@
-# -friends
-blog  friends
+# blog-comments
